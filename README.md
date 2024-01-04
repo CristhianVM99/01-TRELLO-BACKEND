@@ -2,6 +2,12 @@
 
 Este es el backend para una aplicación tipo Trello desarrollada con Flask.
 
+## Desarrollador
+<p>
+    Cristhian Villca Mamani<br/>
+    Fecha de inicio: 04 de enero del 2023<br/>
+</p>
+
 ## Requisitos
 
 - Python 3.x
